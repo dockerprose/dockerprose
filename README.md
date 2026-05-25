@@ -13,7 +13,7 @@
 
 **My Dream is too high, I want to be a Cloud Architect**
 - I Know the concept of Networking, through Cisco - **DONE**
-- I Like the concept of Cloud-Native, Cross-Cloud infra. - **PASSIONATE**
+- I Like the concept of Cloud-Native, Cross-Cloud infra. - **PASSIONATE ABOUT**
 - LEARNING the concept of **IaC, Orchestration & CI/CD Pipelines**
 
 ---
