@@ -45,7 +45,7 @@ I'm currently on the **#90DaysOfDevOps** challenge, diving deep into:
 
 ---
 
-⚡ *“Consistency beats intensity — one command at a time.”*
+⚡ *"The Graph will show my Consistency  - built at  4:00 A.M., 26th May"*
 
 >*"Thank You"*
 >- SHUBHAM BHAIYA 🎯
