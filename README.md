@@ -1,4 +1,16 @@
-# Hello there, I'm Saurabh Kumar Suman , 4th sem BCA Student  👨‍🎓
+# Hello Dosto 🤩
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=🚀+Learning+Linux+and+Bash;🌐+Exploring+Networking;☁️+On+the+DevOps+Journey;🔥+#90DaysOfDevOps+Challenge)](https://git.io/typing-svg)
+
+---
+## 🚀 About Me
+>I'm Saurabh Kumar Suman , Student  👨‍🎓
+**My Dream is too high, I want to be a Cloud Architect**
+- I Know the concept of Networking, through Cisco - **DONE**
+- I Like the concept of Cloud-Native, Cross-Cloud infra. - **PASSIONATE**
+- LEARNING the concept of **IaC, Orchestration & CI/CD Pipelines**
+
+---
 
 ## 🌟 My DevOps Journey
 I'm currently on the **#90DaysOfDevOps** challenge, diving deep into:
@@ -30,4 +42,4 @@ I'm currently on the **#90DaysOfDevOps** challenge, diving deep into:
 ⚡ *“Consistency beats intensity — one command at a time.”*
 
 >"Thank You"
-> SHUBHAM BHAIYA 🎯
+>-SHUBHAM BHAIYA 🎯
